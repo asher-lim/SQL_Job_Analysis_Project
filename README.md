@@ -43,6 +43,7 @@ To identify the top-paying Data Analyst roles, Data Analyst positions with posts
 | Session Lead (External Contractor) - Data Analyst Nanodegree | Udacity, Inc.     | Singapore    | Part-time         | 100,500.0       |
 | Business Operations, Data Analyst (Container Shipping)       | Triton AI Pte Ltd | Singapore    | Full-time         | 100,500.0       |
 | Data Analyst (Risk)                                          | Shield            | Singapore    | Full-time         | 100,500.0       |
+
 ![top_paying_singapore_companies_barchart](/Results&Visualisations/1.%20Singapore_barchart.png)
 
 - Adyen, FiscalNote, 2K, and ADDX are on par with salaries of $111,175
@@ -61,6 +62,7 @@ To identify the top-paying Data Analyst roles, Data Analyst positions with posts
 | Principal Data Analyst, AV Performance Analysis  | Motional                              | True       | Full-time         | 189,000.0       |
 | Principal Data Analyst                           | SmartAsset                            | True       | Full-time         | 186,000.0       |
 | ERM Data Analyst                                 | Get It Recruit - Information Technology| True      | Full-time         | 184,000.0       |
+
 ![top_paying_remote_companies_barchart](/Results&Visualisations/1.%20Remote_bar_chart.png)
 
 - Mantys takes the high lead for $650,000
