@@ -18,7 +18,7 @@ SQL Queries here: [Analysis_SQL](/Analysis_SQL/).
 # Background
 As an aspiring data analyst, I strive to obtain relevant skills in a technical role to increase my value for companies that hire me. These SQL queries on sourced data set allows me to gain insights on what skills i should pursue on the side during free time off school.
 # Tools used
-- __PostgreSQL:__ Chosen DBMS, data uploaded from Excel (see Database_Load_SQL.sql)
+- __PostgreSQL:__ Chosen DBMS, data uploaded from Excel (see [Database_Load_SQL](/Analysis_SQL/Database_Load_SQL.sql))
 - __Excel:__ For Visualisations
 - __Visual Studio Code__
 # The Analysis
