@@ -17,11 +17,10 @@ We will be looking at:
 SQL Queries here: [Analysis_SQL](/Analysis_SQL/).
 # Background
 As an aspiring data analyst, I strive to obtain relevant skills in a technical role to increase my value for companies that hire me. These SQL queries on sourced data set allows me to gain insights on what skills i should pursue on the side during free time off school.
-# Tools I used
-- __SQL:__ Querying language
-- __PostgreSQL:__ Chosen DBMS
-- __VS Code:__ Code editor
-- __Excel:__ For visualisations
+# Tools used
+- __PostgreSQL:__ Chosen DBMS, data uploaded from Excel (see Database_Load_SQL.sql)
+- __Excel:__ For Visualisations
+- __Visual Studio Code__
 # The Analysis
 Each query identifies different aspects of the job market.
 
